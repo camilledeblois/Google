@@ -1,4 +1,4 @@
-#conteneur
+#conteneur1
 {
 display: flex;
 justify-content: flex-end;
@@ -21,4 +21,39 @@ padding-right:20px
 .element:nth-child(2)
 {
 
+}
+
+#conteneur2
+{   
+	
+display: flex;
+flex-direction: column;
+}
+
+
+.google
+
+{
+margin: auto;
+padding-top: 100px;
+}
+
+.barre
+
+{
+	margin: auto;
+	width: 150px
+
+}
+
+#conteneur3
+{
+ display: flex;
+ justify-content: center;
+ margin-top: 20px
+}
+
+.recherche
+{   
+	margin-right: 5px
 }
