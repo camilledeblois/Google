@@ -1,3 +1,16 @@
+a
+{
+	text-decoration: none;
+	color: grey;
+	font-family: arial;
+}
+
+#black
+{
+	color: black;
+}
+
+
 #conteneur1
 {
 display: flex;
@@ -11,17 +24,6 @@ align-items: center;
 padding-right:20px
 }
 
-
-.element:nth-child(1)
-{
-
-}
-
-
-.element:nth-child(2)
-{
-
-}
 
 #conteneur2
 {   
@@ -42,8 +44,6 @@ padding-top: 100px;
 
 {
 	margin: auto;
-	width: 150px
-
 }
 
 #conteneur3
@@ -56,4 +56,32 @@ padding-top: 100px;
 .recherche
 {   
 	margin-right: 5px
+}
+
+footer
+{
+	background-color: rgb(248,248,248);
+	margin-top:208px
+}
+hr
+{
+color: white;
+border: 0.5px solid rgb(225,225,225);
+}
+
+#conteneur4
+
+{
+	display: flex;
+	justify-content: flex-start;
+}
+
+.ref
+{
+	padding-right: 20px
+}
+
+.refapropos
+{
+	padding-right: 550px
 }
