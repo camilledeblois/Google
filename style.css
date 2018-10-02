@@ -1,0 +1,24 @@
+#conteneur
+{
+display: flex;
+justify-content: flex-end;
+align-items: center;
+}
+
+
+.element
+{
+padding-right:20px
+}
+
+
+.element:nth-child(1)
+{
+
+}
+
+
+.element:nth-child(2)
+{
+
+}
